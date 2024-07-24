@@ -1,4 +1,4 @@
-# To-21-426-car-following-model-development-for-AVs
+# To-21-426-car-following-model-AVs
 
 ## Summary:
 
