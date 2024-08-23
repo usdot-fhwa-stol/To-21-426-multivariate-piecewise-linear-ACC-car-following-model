@@ -1,11 +1,10 @@
-# To-21-426-car-following-model-AVs
 
-## Summary:
+## Summary
 
 This repository contains the source code of a nonlinear model development, mixed traffic simulation model, and plot function. The source code of nonlinear model development was developed to generate a nonlinear car-following model for adaptive cruise control (ACC)-equipped vehicles. The source code of the mixed traffic simulation model was imported into PTV VISSIM to conduct mixed traffic simulations. The source code of the plot function was developed to plot basic traffic statistics based on the simulation results. The source code was programmed in MATLAB 2022b, Microsoft Visual Studio 2019 with C++, and Python 3.8.
 
 
-# README Outline:
+# Outline
 * Project Description 
 * Prerequisites
 * Usage
