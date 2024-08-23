@@ -1,7 +1,6 @@
 # Summary
 
-This repository contains the source code of a multivariate piecewise linear car-following model developed for adaptive cruise control (ACC)-equipped vehicles. The source code of the mixed traffic simulation model was imported into PTV VISSIM to conduct mixed traffic simulations. The source code of the plot function was developed to plot basic traffic statistics based on the simulation results. The source code was programmed in MATLAB 2022b, Microsoft Visual Studio 2019 with C++, and Python 3.8.
-
+This repository houses the source code for a multivariate piecewise linear car-following model designed for adaptive cruise control (ACC)-equipped vehicles. It also contains the source code for traffic simulation that integrates the developed car-following model within PTV VISSIM, as well as the code for visualizing the simulation results. The codebase is implemented using MATLAB 2022b, Microsoft Visual Studio 2019 with C++, and Python 3.8.
 
 # Outline
 * Project Description 
