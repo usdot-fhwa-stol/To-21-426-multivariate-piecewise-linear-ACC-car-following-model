@@ -53,6 +53,7 @@ The above steps are shown in the following figure.
 ![ill2](https://github.com/QinzhengW/assets/blob/main/VISSIM_screenshot2.PNG)  
 
 Use the same steps to specify the car-following models for AV3, AV4, and AV5.  
+Please note that since the types 'av' and 'AV1' are not needed, they should be removed. First, locate the row where the 'name' column is 'av', right-click on the row, and select 'delete' from the pop-up menu. Then, repeat the same process to delete the row with the 'name' 'AV1'.
 
 Step 4:Define Simulation Scenarios  
 * Homogeneous Scenario: Only one type of ACC vehicle is included in the simulation, alongside human-driven vehicles. For example, if only AV2 is in the simulation, set the traffic flow proportion of AV3, AV4, and AV5 to 0.001 (as VISSIM does not permit a RelFlow value of 0) to indicate their absence. The setting is illustrated in the figure below.
